@@ -1,5 +1,10 @@
-Swagger URL : http://localhost:8080/swagger-ui/index.html
-Docker Run  : docker run -p 8080:8080 olympic-ranking
+### Quick Start
+
+* **Docker Build:** `docker build -t olympic-ranking .`
+* **Docker Run:** `docker run -p 8080:8080 olympic-ranking`
+* **Swagger URL:** [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
+
+
 
 # 2024 Paris Olympics Medal Ranking API — Live Coding Challenge
 
